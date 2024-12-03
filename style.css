@@ -1,0 +1,58 @@
+#print-btn{
+    padding: 7px 20px;
+    border: none;
+    background-color: aqua;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#save-btn{
+    padding: 7px 20px;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#cropped-image {
+    margin-top: 20px;
+    display: none;
+    border: 1px solid black;
+   
+}
+
+
+
+#image{
+    height: 400px;
+    width: 500px;
+
+}
+
+#crop-btn{
+    padding: 7px 20px;
+    border: none;
+    background-color: grey;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
+#email-btn{
+    padding: 7px 20px;
+    border: none;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+
+}
